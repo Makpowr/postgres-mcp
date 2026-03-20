@@ -1,7 +1,8 @@
-# Environment
+# Environment & MCP config (contain credentials)
 .env
 .env.*
 !.env.example
+.mcp.json
 
 # Python
 __pycache__/
